@@ -1,0 +1,158 @@
+.eweb-SectionHeading h3,
+#eweb-searchProperty h2
+{
+    color: #0d0d0d;
+}
+.eweb-BgSectionHeading h3 {
+	color: #fff;
+}
+.formOverlay:before,
+.eweb-PropertiesText h4 a:hover,
+.eweb-InnerAgents .eweb-BgSectionHeading h3,
+.eweb-InnerCounter .eweb-Counter:hover i.fa,
+.eweb-InnerTestimonial .eweb-SectionHeading h3,
+#eweb-ClientTestimonial .testimonial-content span,
+.eweb-NewsListings h4 a:hover,
+.theme-button:hover,
+.eweb-NewsListings:hover .theme-button,
+.eweb-PrefooterImages a:hover,
+p.eweb-PrefooterLocation i.fa,
+.hvr-gal-btn a:hover,
+#eweb-AboutText h4,
+#eweb-AboutText a:hover,
+#eweb-PropertyForm h3,
+.eweb-PropertyForm button:hover,
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover,
+.pagination > li > a.active,
+#eweb-MortageCalculator .input-group-addon,
+.eweb-RecentListings h4 a:hover,
+.eweb-RecentListings span,
+#eweb-ListView .item h4 a:hover,
+#eweb-ListView .item span,
+ul#eweb-PropertyListings li span,
+ul#eweb-PropertyListings li::before,
+ul#eweb-PropertyListings li:hover a,
+.eweb-ListView .eweb-PropertiesText h4,
+.eweb-Properties .eweb-PropertySeperator p span,
+.eweb-ContactInfo a i.fa,
+.eweb-ContactInfo a:hover,
+#eweb-similarProperty .eweb-BgSectionHeading h3,
+#eweb-PropertyText h4,
+#eweb-PropertyText a:hover,
+#eweb-PropertyText i.fa,
+ul.eweb-PropertyListings li span,
+ul.eweb-PropertyListings li::before,
+ul.eweb-PropertyListings li:hover a,
+ul.eweb-PropertyListings li:hover span i.fa,
+#eweb-innerContent .eweb-GridLeftBlock h5,
+#eweb-summaryDetail span,
+#eweb-SellingAgentText h5,
+#eweb-sellingDetail a:hover,
+#eweb-sellingDetail a i.fa
+{
+    color: #1ab5c1;
+}
+
+.eweb-InnerServices i.fa,
+.eweb-InnerCounter,
+.eweb-Counter:hover i.fa,
+.theme-button,
+#eweb-Subscribe button,
+.hvr-gal-btn a,
+#eweb-Footer,
+.eweb-BreadCrumbInner,
+#eweb-AboutText a,
+.eweb-PropertyForm button,
+.eweb-GridRightBox button.form-control,
+.owl-theme .owl-controls .owl-page.active span,
+#eweb-ContactAgent button.form-control,
+#eweb-ContactForm button,
+#eweb-PropertyText a,
+#eweb-summaryDetail,
+#eweb-ContactMe button
+{
+    background: #1ab5c1;
+}
+
+.form-control:focus,
+.eweb-Counter:hover i.fa,
+.theme-button,
+#eweb-Subscribe button,
+#eweb-Content .eweb-TeamBlock:hover,
+#eweb-AboutText a,
+.eweb-PropertyForm button,
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover,
+.pagination > li > a.active,
+.eweb-GridRightBox hr,
+#eweb-MortageCalculator .form-control:focus,
+.eweb-GridRightBox button.form-control,
+#eweb-ContactAgent button.form-control,
+#eweb-Contact hr,
+#eweb-PropertyText a
+{
+    border-color: #1ab5c1;
+}
+
+.searchCategory a:hover,
+.eweb-PropertiesText p i.fa,
+.eweb-BottomBar p i.fa,
+.popover a:hover,
+#eweb-GalleryLinks button:hover,
+#eweb-GalleryLinks button:active,
+#eweb-GalleryLinks button.active,
+#eweb-ViewAll a,
+.eweb-GridLeftBlock a.eweb-tags:hover,
+.eweb-GridLeftBlock a.eweb-posts:hover,
+#eweb-SellingAgentText a:hover
+{
+    color: #009eaa;
+}
+
+#eweb-Navigation,
+.search-icon:hover,
+.search-icon:active,
+.search-icon:focus,
+#eweb-Property button,
+.searchCategory:hover .catIcon,
+#eweb-ViewAll a:hover,
+#eweb-PrefooterIcons a:hover,
+#eweb-SellingAgentText a
+{
+    background: #009eaa;
+}
+
+.eweb-drop-menu.active:hover,
+.eweb-drop-menu .eweb-dropeddown li:hover,
+.eweb-drop-menu .eweb-dropeddown li:active,
+.eweb-saleRibbon,
+.eweb-SocialIcons a:hover
+{
+    background-color: #009eaa;
+}
+
+#eweb-Property input.form-control,
+.eweb-SocialIcons a:hover,
+#eweb-GalleryLinks button:hover,
+#eweb-GalleryLinks button:active,
+#eweb-GalleryLinks button.active,
+#eweb-ViewAll a,
+#eweb-PrefooterIcons a:hover,
+.eweb-GridLeftBlock a.eweb-tags:hover,
+.eweb-GridLeftBlock a.eweb-posts:hover,
+#eweb-SellingAgentText a:hover
+{
+    border-color: #009eaa;
+}
+
+.eweb-GridLeftBlock #eweb-GalleryLinks button:hover,
+.eweb-GridLeftBlock #eweb-GalleryLinks button:active,
+.eweb-GridLeftBlock #eweb-GalleryLinks button.active
+{
+    border-bottom-color: #009eaa;
+}

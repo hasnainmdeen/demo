@@ -1,0 +1,24 @@
+@media(max-width:767px)
+{
+	.list-inline>li
+	{
+		display: block;
+		text-align: left;
+	}
+	.bannerText a.contactUs
+	{
+		margin-bottom: 15px;
+	}
+	#offersBox .placeBox
+	{
+		margin-bottom: 15px;
+	}
+	.testimonial-content
+	{
+		margin: 0px 12px 0px 35px;
+	}
+	#testimonial .bx-wrapper .bx-viewport
+	{
+		height: 500px !important;
+	}
+}
